@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @deep-18
-- 👀 I’m interested in FullStack Development i.e vanilla.js, React, node.js and Django
+- 👋 Hi, I’m Deep
+- 👀 I’m interested in FullStack Development i.e vanilla.js, React, node.js and Django Framework
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on React and Node.js
 - 📫 How to reach me deepraval7408@gmail.com
