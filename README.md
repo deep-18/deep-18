@@ -16,5 +16,6 @@ You can click the Preview link to take a look at your changes.
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/deep-raval-28024414a/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
-</div> -->
-<!-- <img src="https://komarev.com/ghpvc/?username=deep-18&style=flat-square&color=blue" alt=""/> -->
+</div>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=deep-18&theme=dark&background=000000)](https://git.io/streak-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-18&layout=compact&theme=vision-friendly-dark" /> -->
