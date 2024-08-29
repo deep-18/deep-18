@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Deep
-- 👀 I’m interested in FullStack Development i.e vanilla.js, C, Java, React, node.js and Django Framework
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on React, C, Java, Django and Node.js
+- 👀 I’m interested in DevOps i.e. Kubernetes, Terraform, Ansible, Docker, Linux and AWS
+- 💞️ I’m looking to collaborate on DevOps and python.
 - 📫 How to reach me deepraval7408@gmail.com
 
 <!---
